@@ -1,0 +1,2 @@
+
+const teamsModel = require("./teamsModel");
